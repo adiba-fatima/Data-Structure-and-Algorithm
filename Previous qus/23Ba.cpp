@@ -1,3 +1,4 @@
+//move the first node to last
 #include <iostream>
 using namespace std;
 struct node
